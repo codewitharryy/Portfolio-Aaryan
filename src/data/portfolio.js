@@ -145,12 +145,12 @@ export const projects = [
     link: '',
     live: '',
   },
-  {
-    title: 'NEXUS AI',
+   {
+    title: 'SubZero — AI Subscription Negotiator',
     description:
-      'AI chatbot platform with authentication, conversational memory, vector-based retrieval, and real-time communication, designed to provide contextual and personalized AI conversations.',
-    tags: ['React', 'Node.js', 'MongoDB', 'Socket.IO', 'RAG', 'AI'],
-    link: 'https://github.com/codewitharryy/NEXUS.AI',
+      'An agentic AI system that autonomously finds, negotiates, and cancels forgotten subscriptions. Built with multi-agent orchestration (LangGraph), strict financial guardrails, PII masking, prompt injection defense, and human-in-the-loop escalation for high-risk actions.',
+    tags: ['Python', 'LangGraph', 'OpenAI', 'FastAPI', 'MCP', 'Streamlit', 'SQLite'],
+    link: 'https://github.com/codewitharryy/subzero-agent',
     live: '',
   },
 ]
@@ -201,7 +201,7 @@ export const socials = [
   },
   {
     name: 'X',
-    url: 'https://x.com/yourusername', // ← update this
+    url: 'https://x.com/aaryanawasthi', // ← update this
     icon: 'x',
   },
   {
