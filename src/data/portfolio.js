@@ -142,7 +142,7 @@ export const projects = [
     description:
       'Machine learning-based health analytics project designed to analyze blood pressure and related health parameters to generate predictive insights and support data-driven health monitoring.',
     tags: ['Python', 'Machine Learning', 'Data Analysis', 'AI'],
-    link: '',
+    link: 'https://github.com/codewitharryy/Predictive-Pulse-Harnessing-for-Blood-Pressure-Analysis',
     live: '',
   },
    {
